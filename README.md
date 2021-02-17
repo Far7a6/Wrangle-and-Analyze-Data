@@ -1,5 +1,5 @@
 # Wrangle and Analyze Data
-Udacity Data Analyst February 2021 
+Udacity Data Analysis February 2021 
 
 Project II: Wrangle and Analyze Data - WeRateDogs twitter account
 
